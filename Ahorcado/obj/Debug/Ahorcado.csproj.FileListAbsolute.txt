@@ -1,0 +1,23 @@
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.datos.resources
+C:\Users\Darck\Desktop\6to semestre\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Ahorcado.resources
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.datos.resources
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Ahorcado.resources
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Salir.resources
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\DASUSBETA\Documents\Programacion\Proyectos\Juegos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Ganador.resources
